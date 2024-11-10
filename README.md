@@ -41,11 +41,9 @@ config.dare_Q, config.dare_R #Weights for DARE solver to propagate control covar
 If you find this code useful, please consider citing:
 
 ```bibtex
-@inproceedings{trivedi2024probabilistic,
-  title={A probabilistic motion model for skid-steer wheeled mobile robot navigation on off-road terrains},
-  author={Trivedi, Ananya and Zolotas, Mark and Abbas, Adeeb and Prajapati, Sarvesh and Bazzi, Salah and Pad{\i}r, Ta{\c{s}}kin},
-  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)},
-  pages={12599--12605},
-  year={2024},
-  organization={IEEE}
+@article{trivedi2024chance,
+  title={Chance-Constrained Convex MPC for Robust Quadruped Locomotion Under Parametric and Additive Uncertainties},
+  author={Trivedi, Ananya and Prajapati, Sarvesh and Zolotas, Mark and Everett, Michael and Padir, Taskin},
+  journal={arXiv preprint arXiv:2411.03481},
+  year={2024}
 }
