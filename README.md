@@ -37,7 +37,7 @@ config.Sigma_theta, config.Sigma_w #Covariance for Chance-Constrained MPC
 config.dare_Q, config.dare_R #Weights for DARE solver to propagate control covariance
 ```
 
-## Citation -- TODO AFTER ARXIV
+## Citation
 If you find this code useful, please consider citing:
 
 ```bibtex
