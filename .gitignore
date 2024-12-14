@@ -10,7 +10,6 @@ __pycache__/
 *$py.class
 .idea/
 logs/
-data/
 
 # C extensions
 *.so
