@@ -41,9 +41,11 @@ config.dare_Q, config.dare_R #Weights for DARE solver to propagate control covar
 If you find this code useful, please consider citing:
 
 ```bibtex
-@article{trivedi2024chance,
+@article{trivedi2025chance,
   title={Chance-Constrained Convex MPC for Robust Quadruped Locomotion Under Parametric and Additive Uncertainties},
-  author={Trivedi, Ananya and Prajapati, Sarvesh and Zolotas, Mark and Everett, Michael and Padir, Taskin},
-  journal={arXiv preprint arXiv:2411.03481},
-  year={2024}
+  author={Trivedi, Ananya and Prajapati, Sarvesh and Zolotas, Mark and Everett, Michael and Pad{\i}r, Ta{\c{s}}k{\i}n},
+  journal={IEEE Robotics and Automation Letters},
+  year={2025},
+  publisher={IEEE}
+}
 }
